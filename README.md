@@ -203,4 +203,4 @@ Here is some _text_ with *different* levels of __emphasis on words__ to demonstr
 
 ## Images
 
-![Snooker Image](https://homepages.cae.wisc.edu/~ece533/images/pool.png "Snooker")
+Here is a lovely image of a snooker table: ![Snooker Image](https://homepages.cae.wisc.edu/~ece533/images/pool.png "Snooker")
