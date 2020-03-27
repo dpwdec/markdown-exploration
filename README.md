@@ -33,7 +33,7 @@ Below is a quote:
 
 Courtesy of Judith Butler
 
-And a nested quote:
+And a verbose type nested quote:
 
 > In “Mourning and Melancholia,” the lost object is set up within the ego as a critical voice
 > or agency, and the anger originally felt for the object is reversed so that
@@ -53,4 +53,21 @@ And a nested quote:
 > object requires that the object be retained until differences are settled.
 > In this early essay, Freud understands grief to be the withdrawal of
 > libidinal cathexis from the object and the successful transferral of that
-> cathexis onto a fresh object. I
+> cathexis onto a fresh object.
+
+And a simple type nested quote:
+
+> The construction of the interior ego ideal involves the internaliProhibition, Psychoanalysis, and the Heterosexual Matrixzation of gender identities as well. Freud remarks that the ego ideal is
+a solution to the Oedipal complex and is thus instrumental in the
+successful consolidation of masculinity and femininity:
+>
+> > The super-ego is, however, not simply a residue of the earliest
+object-choices of the id: it also represents an energetic reaction-formation against these choices. Its relation to the ego is not exhausted
+by the precept: “You ought to be like this (like your father.)” It also
+comprises the prohibition: “You may not be like this (like your
+father)—that is, you may not do all that he does; some things are his
+prerogative.” (24)
+>
+> The ego ideal thus serves as an interior agency of sanction and
+taboo which, according to Freud, works to consolidate gender identity
+through the appropriate rechanneling and sublimation of desire.
