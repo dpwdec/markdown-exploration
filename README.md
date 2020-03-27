@@ -141,3 +141,11 @@ Here is some code with syntax highlighting enabled:
   puts "The number is #{x}."
 end
 ```
+
+* Here is some code in a list
+
+    ```
+    Some code
+    ```
+* Here is the next item in the list
+* And another one.
