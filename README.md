@@ -152,7 +152,7 @@ end
 
 Here is some `inline_code()` stuff.
 
-Here is some `puts inline_code(:my_code)`{:.ruby} with syntax highlighting.
+Here is some `puts inline_code(:my_code)`{.ruby} with syntax highlighting.
 
 
 Now lets have a horizontal rule:
