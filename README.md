@@ -217,22 +217,30 @@ Here is an image that has been placed inline with markdown and scaled using the 
 
 ## Markdown table:
 
+Here is a basic table:
+
 | Markdown  |Table  |Headings |
 |---        |---    |---      |
 | Info      | fig7  | *899*   |
 | MG78      | fig11 | 85      |
 | __G0StringIndicator__ | fig14 | 99 |
 
+Here is a table with alignment options:
+
 | Table | with | aligned | columns |
 | :----- | :------: | -----: | :------ |
 | left aligned | centre aligned | right aligned | back to normal |
 | $ | & | £ | 2 |
 
+Here is a table with links and content:
+
 | Markdown  |Link   |Table |
 |---        |---    |---      |
-| [Location][tlink1]      | [XHVUN-FM][tlink2]  | *899*   |
-| MG78      | fig11 | 85      |
+| [Location][tlink1]      | [XHVUN-FM][tlink2]  | `do_operation()`   |
+| > tiny corgi     | ![corgi][tlink3] | 85      |
 | __G0StringIndicator__ | fig14 | 99 |
 
 [tlink1]: https://en.wikipedia.org/wiki/North_Side,_Binghamton "Binghamton"
 [tlink2]: https://en.wikipedia.org/wiki/XHVUN-FM "XHVUN-FM"
+[tlink3]: https://img.icons8.com/plasticine/100/000000/corgi.png "Tiny Corgi"
+
