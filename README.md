@@ -151,6 +151,7 @@ end
 * And another one.
 
 Now lets have a horizontal rule:
+
 ---
 
 And another:
