@@ -222,7 +222,7 @@ Here is an image that has been placed inline with markdown and scaled using the 
 | MG78      | fig11 | 85      |
 | __G0StringIndicator__ | fig14 | 99 |
 
-Table | with | aligned | columns
------ | :------: | -----: | ------
-left aligned | centre aligned | right aligned | back to normal
-$ | & | £ | 2
+| Table | with | aligned | columns |
+| ----- | :------: | -----: | ------ |
+| left aligned | centre aligned | right aligned | back to normal |
+| $ | & | £ | 2 |
