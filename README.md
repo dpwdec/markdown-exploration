@@ -19,4 +19,6 @@ This is a test project to explore the Markdown format and Github flavored Markdo
 
 Above is some HTML that was inserted into this .md file.
 
-This is ean example of a <font color='red'>span level</font> HTML tag used in Markdown. However, it doesn't work on Github because Github does not support span level inline HTML for markdown.
+This is ean example of a <font color='red'>span level</font> HTML tag used in Markdown. However, it doesn't work on Github because Github does not support span level inline HTML for markdown.  
+
+This paragraph features a break tag above it.
