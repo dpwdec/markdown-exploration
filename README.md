@@ -149,3 +149,12 @@ end
     ```
 * Here is the next item in the list
 * And another one.
+
+Now lets have a horizontal rule:
+---
+
+And another:
+***
+
+And on more with HTML
+<hr />
