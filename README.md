@@ -38,7 +38,6 @@ And a nested quote:
 > In “Mourning and Melancholia,” the lost object is set up within the ego as a critical voice
 or agency, and the anger originally felt for the object is reversed so that
 the internalized object now berates the ego:
-
 > >If one listens patiently to the many and various self-accusations of the
 melancholic, one cannot in the end avoid the impression that often
 the most violent of them are hardly applicable to the patient himself,
@@ -46,7 +45,6 @@ but that with insignificant modifications they do fit someone else,
 some person whom the patient loves, has loved or ought to love....
 the self-reproaches are reproaches against a loved object which have
 been shifted onto the patient’s own ego. (169)
-
 > The melancholic refuses the loss of the object, and internalization
 becomes a strategy of magically resuscitating the lost object, not only
 Gender Trouble because the loss is painful, but because the ambivalence felt toward the
