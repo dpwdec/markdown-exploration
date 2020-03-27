@@ -209,4 +209,4 @@ Here is a lovely image of a snooker table:
 
 Here is a ![dancing cat][cat_dance] as an inline image using image ID.
 
-![dancing cat][cat_dance]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif "Dancing cat"
+[cat_dance]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif "Dancing cat"
