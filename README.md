@@ -237,8 +237,7 @@ Here is a table with links and content:
 | Markdown  |Link   |Table |
 |---        |---    |---      |
 | [Location][tlink1]      | [XHVUN-FM][tlink2]  | `do_operation()`   |
-| > tiny corgi     | ![corgi][tlink3] | 85      |
-| __G0StringIndicator__ | fig14 | 99 |
+| > tiny corgi     | ![corgi][tlink3] | * bullet      |
 
 [tlink1]: https://en.wikipedia.org/wiki/North_Side,_Binghamton "Binghamton"
 [tlink2]: https://en.wikipedia.org/wiki/XHVUN-FM "XHVUN-FM"
