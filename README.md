@@ -19,4 +19,4 @@ This is a test project to explore the Markdown format and Github flavored Markdo
 
 Above is some HTML that was inserted into this .md file.
 
-This is ean example of a <span style="color:pink">span level</span> HTML tag used in Markdown.
+This is ean example of a <span style="color:blue">span level</span> HTML tag used in Markdown.
