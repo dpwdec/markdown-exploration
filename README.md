@@ -170,3 +170,7 @@ Here is an example of [link](https://www.w3schools.com/tags/att_a_href.asp) plac
 This is another [link](https://www.pcmag.com/encyclopedia/term/href "PC Mag") but with a Title.
 
 Here is a [link to](#markdown-exploration) the header at the top of this page.
+
+Here is an [example][id] of an ID based link.
+
+[id]: https://www.w3schools.com/html/html_id.asp "ID Link"
