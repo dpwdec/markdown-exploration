@@ -173,4 +173,8 @@ Here is a [link to](#markdown-exploration) the header at the top of this page.
 
 Here is an [example][id] of an ID based link.
 
+Here is a link to [Google][] that uses text content based ID.
+
 [id]: https://www.w3schools.com/html/html_id.asp "ID Link"
+
+[Google]: https://google.com/
