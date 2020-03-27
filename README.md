@@ -168,3 +168,5 @@ Here's some heading text created using rule syntax
 Here is an example of [link](https://www.w3schools.com/tags/att_a_href.asp) placed in line.
 
 This is another [link](https://www.pcmag.com/encyclopedia/term/href "PC Mag") but with a Title.
+
+Here is a [link to](#Markdown Exploration) the header at the top of this page.
