@@ -159,3 +159,6 @@ And another:
 
 And on more with HTML
 <hr />
+
+Here's some heading text created using rule syntax
+---
