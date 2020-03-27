@@ -178,3 +178,9 @@ Here is a link to [Google][] that uses text content based ID.
 [id]: https://www.w3schools.com/html/html_id.asp "ID Link"
 
 [Google]: https://google.com/
+
+
+
+## Emphasis
+
+Here is some _text_ with *different* levels of __emphasis on words__ to demonstrate **HOW** emphasis works.
