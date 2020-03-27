@@ -8,7 +8,7 @@ This is a test project to explore the Markdown format and Github flavored Markdo
     <th>HTML</th>
   </tr>
   <tr>
-    <td>*Writing format*</td>
+    <td>Writing format</td>
     <td>Publishing format</td>
   </tr>
   <tr>
@@ -18,3 +18,5 @@ This is a test project to explore the Markdown format and Github flavored Markdo
 </table>
 
 Above is some HTML that was inserted into this .md file.
+
+This is ean example of a <span style="color:pink">span level</span> HTML tag used in Markdown.
