@@ -207,6 +207,8 @@ Here is a lovely image of a snooker table:
 
 ![Snooker Image](https://homepages.cae.wisc.edu/~ece533/images/pool.png "Snooker")
 
-Here is a ![dancing cat][cat_dance] as an inline image using image ID.
+Here is a dancing cat ![dancing cat][cat_dance] as an inline image using image ID.
 
 [cat_dance]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif "Dancing cat"
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif" alt="Smiley face" height="42" width="42">
