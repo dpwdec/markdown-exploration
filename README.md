@@ -17,4 +17,4 @@ This is a test project to explore the Markdown format and Github flavored Markdo
   </tr>
 </table>
 
-Above is some HTML that was inserted in this .md file.
+Above is some HTML that was inserted into this .md file.
