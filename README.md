@@ -133,3 +133,11 @@ function func() {
   console.learn('Markdown');
 }
 ```
+
+Here is some code with syntax highlighting enabled:
+
+```ruby
+(1..20).each do |x|
+  puts "The number is #{x}."
+end
+```
