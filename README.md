@@ -150,6 +150,9 @@ end
 * Here is the next item in the list
 * And another one.
 
+Here is some `inline_code()` stuff.
+
+
 Now lets have a horizontal rule:
 
 ---
