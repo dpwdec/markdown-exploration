@@ -31,8 +31,6 @@ Below is a quote:
 
 > What are these primary dispositions on which Freud himself apparently founders? Are these attributes of an unconscious libidinal organization, and how precisely do the various identifications set up in consequence of the Oedipal conflict work to reinforce or dissolve each of these dispositions? What aspect of “femininity” do we call dispositional, and which is the consequence of identification? Indeed, what is to keep us from understanding the “dispositions” of bisexuality as the effects or productions of a series of internalizations? Moreover, how do we identify a “feminine” or a “masculine” disposition at the outset? By what traces is it known, and to what extent do we assume a “feminine” or a “masculine” disposition as the precondition of a heterosexual object choice? In other words, to what extent do we read the desire for the father as evidence of a feminine disposition only because we begin, despite the postulation of primary bisexuality, with a heterosexual matrix for desire?
 
-Courtesy of Judith Butler
-
 And a verbose type nested quote:
 
 > In “Mourning and Melancholia,” the lost object is set up within the ego as a critical voice
@@ -71,3 +69,5 @@ prerogative.” (24)
 > The ego ideal thus serves as an interior agency of sanction and
 taboo which, according to Freud, works to consolidate gender identity
 through the appropriate rechanneling and sublimation of desire.
+
+*Bold Text: Courtesy of Judith Butler, Gender Troubles*
