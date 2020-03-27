@@ -203,4 +203,9 @@ Here is some _text_ with *different* levels of __emphasis on words__ to demonstr
 
 ## Images
 
-Here is a lovely image of a snooker table: ![Snooker Image](https://homepages.cae.wisc.edu/~ece533/images/pool.png "Snooker")
+Here is a lovely image of a snooker table: 
+![Snooker Image](https://homepages.cae.wisc.edu/~ece533/images/pool.png "Snooker")
+
+Here is a ![dancing cat][cat_dance] as an inline image using image ID.
+
+![dancing cat][cat_dance] https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif "Dancing cat"
