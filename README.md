@@ -201,6 +201,8 @@ Here is some _text_ with *different* levels of __emphasis on words__ to demonstr
 
 **Here is some _nested italics_ within bold text for extra emphasis.**
 
+***Here everything is italics and bold***
+
 Here some ~~text that was a mistake~~ stuff that I need to get rid of.
 
 \*You can also escape your emphasis indicators like this\*
