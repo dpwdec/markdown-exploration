@@ -213,3 +213,10 @@ Here is a dancing cat ![dancing cat][cat_dance] as an inline image using image I
 [cat_dance]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif "Dancing cat"
 
 Here is an image that has been placed inline with markdown and scaled using the HTML `<img>` tag: <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif" alt="Smiley face" height="42" width="42">
+
+## Markdown table:
+
+| Markdown  |Table  |Headings |
+|---        |---    |---      |
+| Info      | fig7  | *899*   |
+| MG78      | fig11 | 85      |
