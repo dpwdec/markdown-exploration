@@ -214,6 +214,7 @@ Here is a dancing cat ![dancing cat][cat_dance] as an inline image using image I
 
 Here is an image that has been placed inline with markdown and scaled using the HTML `<img>` tag: <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif" alt="Smiley face" height="42" width="42">
 
+
 ## Markdown table:
 
 | Markdown  |Table  |Headings |
@@ -226,3 +227,12 @@ Here is an image that has been placed inline with markdown and scaled using the 
 | :----- | :------: | -----: | :------ |
 | left aligned | centre aligned | right aligned | back to normal |
 | $ | & | £ | 2 |
+
+| Markdown  |Link   |Table |
+|---        |---    |---      |
+| [Location][tlink1]      | [XHVUN-FM][tlink2]  | *899*   |
+| MG78      | fig11 | 85      |
+| __G0StringIndicator__ | fig14 | 99 |
+
+[tlink1]: https://en.wikipedia.org/wiki/North_Side,_Binghamton "Binghamton"
+[tlink2]: https://en.wikipedia.org/wiki/XHVUN-FM "XHVUN-FM"
