@@ -71,3 +71,14 @@ taboo which, according to Freud, works to consolidate gender identity
 through the appropriate rechanneling and sublimation of desire.
 
 *Italics Text: Courtesy of Judith Butler, Gender Troubles*
+
+Below is some quote blocks containing Markdown elements:
+
+> This is the first line of my quote what else can I say?
+>
+> 1. I could talk about markdown allowing lists
+> 2. Or even allowing other elements:
+>
+> > *Here is a nested quote in italics*
+>
+> How exciting!
