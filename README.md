@@ -98,3 +98,11 @@ And an unordered list with mixed symbols:
 * コーヒー
 + チョコレート
 - クリーム
+
+However, these don't work and just create several new lists.
+
+Below is an indented oredered list:
+
+  1. Wake up
+  2. Learn Markdown
+  3. Push to Github
