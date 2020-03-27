@@ -171,6 +171,6 @@ This is another [link](https://www.pcmag.com/encyclopedia/term/href "PC Mag") bu
 
 Here is a 
 
-[link to](#Markdown Exploration) 
+[link to](#markdown-exploration) 
 
 the header at the top of this page.
