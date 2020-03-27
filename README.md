@@ -82,3 +82,13 @@ Below is some quote blocks containing Markdown elements:
 > > *Here is a nested quote in italics*
 >
 > How exciting!
+
+## Some list examples
+
+Below is an unordered list:
+
+* 商品
+* 秘密の山口
+* 筋トレ
+* ラーブリー
+* 無理夢中
