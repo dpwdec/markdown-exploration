@@ -184,3 +184,5 @@ Here is a link to [Google][] that uses text content based ID.
 ## Emphasis
 
 Here is some _text_ with *different* levels of __emphasis on words__ to demonstrate **HOW** emphasis works.
+
+\*You can also escape your emphasis indicators like this\*
