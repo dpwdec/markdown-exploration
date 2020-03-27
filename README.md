@@ -106,3 +106,11 @@ Below is an indented oredered list:
   1. Wake up
   2. Learn Markdown
   3. Push to Github
+
+
+Below is a list with paragraphs:
+
+1. This is some Markdown that is part of a list.
+
+    And this is some more markdown in the same paragraph.
+2. Another is another item in the list.
