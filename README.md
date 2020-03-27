@@ -113,4 +113,12 @@ Below is a list with paragraphs:
 1. This is some Markdown that is part of a list.
 
     And this is some more markdown in the same paragraph.
-2. Another is another item in the list.
+2. This is another item in the list.
+3. And a third item.
+
+
+### Some code examples:
+
+Here is a normal paragraph:
+
+  This is some code.
