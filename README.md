@@ -122,3 +122,14 @@ Below is a list with paragraphs:
 Here is a normal paragraph:
 
   This is some code.
+  
+*The above example will not display on github because it doesn't support idented code blocks*
+
+
+For github use:
+
+```
+function func() {
+  console.learn('Markdown');
+}
+```
