@@ -152,7 +152,10 @@ end
 
 Here is some `inline_code()` stuff.
 
-Here is some `puts inline_code(:my_code)`{.ruby} with syntax highlighting.
+Unfortunately this no longer works on Github:
+Here is some `puts inline_code(:my_code)`{:.ruby} with syntax highlighting.
+
+Here is some ``inline_Code(`)`` which contains a backtick literal.
 
 
 Now lets have a horizontal rule:
