@@ -8,7 +8,7 @@ This is a test project to explore the Markdown format and Github flavored Markdo
     <th>HTML</th>
   </tr>
   <tr>
-    <td>Writing format</td>
+    <td>*Writing format*</td>
     <td>Publishing format</td>
   </tr>
   <tr>
