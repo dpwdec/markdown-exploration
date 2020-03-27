@@ -223,6 +223,6 @@ Here is an image that has been placed inline with markdown and scaled using the 
 | __G0StringIndicator__ | fig14 | 99 |
 
 | Table | with | aligned | columns |
-| ----- | :------: | -----: | ------ |
+| :----- | :------: | -----: | :------ |
 | left aligned | centre aligned | right aligned | back to normal |
 | $ | & | £ | 2 |
