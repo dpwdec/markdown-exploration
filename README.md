@@ -70,4 +70,4 @@ prerogative.” (24)
 taboo which, according to Freud, works to consolidate gender identity
 through the appropriate rechanneling and sublimation of desire.
 
-*Bold Text: Courtesy of Judith Butler, Gender Troubles*
+*Italics Text: Courtesy of Judith Butler, Gender Troubles*
