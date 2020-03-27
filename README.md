@@ -117,7 +117,7 @@ Below is a list with paragraphs:
 3. And a third item.
 
 
-### Some code examples:
+## Some code examples:
 
 Here is a normal paragraph:
 
@@ -160,6 +160,8 @@ Here is some ``inline_Code(`)`` which contains a backtick literal.
 Here is some `` `inline_code()` `` which contains adjacent backtick literals.
 
 
+## Horizontal Rules
+
 Now lets have a horizontal rule:
 
 ---
@@ -172,6 +174,7 @@ And on more with HTML
 
 Here's some heading text created using rule syntax
 ---
+
 
 ## Links
 
@@ -196,3 +199,8 @@ Here is a link to [Google][] that uses text content based ID.
 Here is some _text_ with *different* levels of __emphasis on words__ to demonstrate **HOW** emphasis works.
 
 \*You can also escape your emphasis indicators like this\*
+
+
+## Images
+
+![Snooker Image](https://homepages.cae.wisc.edu/~ece533/images/pool.png "Snooker")
