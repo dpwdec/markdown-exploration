@@ -92,3 +92,9 @@ Below is an unordered list:
 * 筋トレ
 * ラーブリー
 * 無理夢中
+
+And an unordered list with mixed symbols:
+
+* コーヒー
++ チョコレート
+- クリーム
