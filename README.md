@@ -199,6 +199,8 @@ Here is an automatic link: <https://eudoxos.github.io/cfitness/html/cfitness.htm
 
 Here is some _text_ with *different* levels of __emphasis on words__ to demonstrate **HOW** emphasis works.
 
+Here some ~~text that was a mistake~~ stuff that I need to get rid of.
+
 \*You can also escape your emphasis indicators like this\*
 
 
