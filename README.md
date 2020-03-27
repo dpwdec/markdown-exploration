@@ -211,4 +211,4 @@ Here is a dancing cat ![dancing cat][cat_dance] as an inline image using image I
 
 [cat_dance]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif "Dancing cat"
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif" alt="Smiley face" height="42" width="42">
+Here is an image that has been scaled using the HTML `<img></img>` tags: <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif" alt="Smiley face" height="42" width="42">
