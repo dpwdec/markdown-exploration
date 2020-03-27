@@ -220,3 +220,4 @@ Here is an image that has been placed inline with markdown and scaled using the 
 |---        |---    |---      |
 | Info      | fig7  | *899*   |
 | MG78      | fig11 | 85      |
+| __G0StringIndicator__ | fig14 | 99 |
