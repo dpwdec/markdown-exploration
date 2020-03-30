@@ -280,3 +280,6 @@ Here is a table with links and content:
 [tlink2]: https://en.wikipedia.org/wiki/XHVUN-FM "XHVUN-FM"
 [tlink3]: https://img.icons8.com/plasticine/100/000000/corgi.png "Tiny Corgi"
 
+## Emoji
+
+Here is a vampire 🧛.
