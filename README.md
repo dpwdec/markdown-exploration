@@ -133,6 +133,16 @@ Here is a nest list:
 2. Second main list item
 
 
+Here is a task list:
+
+- [x] Travel to Alaska
+- [ ] Plant some pine trees
+- [ ] Ride a moose
+- [ ] \(Feed the moose my wedding ring)
+
+
+
+
 ## Some code examples:
 
 Here is a normal paragraph:
