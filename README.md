@@ -2,6 +2,12 @@
 
 This is a test project to explore the Markdown format and Github flavored Markdown.
 
+## Contents
+
+1. [Introduction](#intro)
+
+## Intro
+
 <table>
   <tr>
     <th>Markdown</th>
