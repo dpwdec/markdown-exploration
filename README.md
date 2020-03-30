@@ -83,6 +83,14 @@ Below is some quote blocks containing Markdown elements:
 >
 > How exciting!
 
+You can also quote code:
+
+> The beginning of a quote:
+>
+> `git make quote`
+>
+> end quote
+
 ## Some list examples
 
 Below is an unordered list:
