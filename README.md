@@ -230,6 +230,9 @@ Here is a dancing cat ![dancing cat][cat_dance] as an inline image using image I
 
 Here is an image that has been placed inline with markdown and scaled using the HTML `<img>` tag: <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Mura.gif" alt="Smiley face" height="42" width="42">
 
+Here is an animated gif of the flag for the state of Maryland. It has been linked to as a relative resource:
+![maryland](images/marylandFlag.gif)
+
 
 ## Markdown table:
 
