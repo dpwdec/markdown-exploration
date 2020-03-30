@@ -5,6 +5,17 @@ This is a test project to explore the Markdown format and Github flavored Markdo
 ## Contents
 
 1. [Introduction](#intro)
+2. [Quotes](#quotes)
+3. [Headings](#headings)
+4. [Lists](#some-list-examples)
+5. [Code](#some-code-examples)
+6. [Horizontal Rules](#horizontal-rules)
+7. [Links](#links)
+8. [Emphasis](#emphasis)
+9. [Images](#images)
+10. [Tables](markdown-table)
+11. [Emoji](#emoji)
+12. [Commits](#commits)
 
 ## Intro
 
@@ -29,9 +40,14 @@ This is ean example of a <font color='red'>span level</font> HTML tag used in Ma
 
 This paragraph features a break tag above it.
 
+## Headings
+
 ## This is an example of an H2 heading
 
 #### This is an example of an H4 heading with a closing Hash #
+
+
+## Quotes
 
 Below is a quote:
 
