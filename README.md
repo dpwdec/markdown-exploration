@@ -284,8 +284,4 @@ Here is a table with links and content:
 
 Here is a vampire 🧛.
 
-<<<<<<< HEAD
 Here is my :bowtie:
-=======
-Here is my :thinking face:
->>>>>>> 8a81a181d5e86c3d6cefebfe545fe4d02667ab72
