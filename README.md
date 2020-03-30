@@ -8,12 +8,12 @@ This is a test project to explore the Markdown format and Github flavored Markdo
 2. [Quotes](#quotes)
 3. [Headings](#headings)
 4. [Lists](#some-list-examples)
-5. [Code](#some-code-examples:)
+5. [Code](#some-code-examples)
 6. [Horizontal Rules](#horizontal-rules)
 7. [Links](#links)
 8. [Emphasis](#emphasis)
 9. [Images](#images)
-10. [Tables](markdown-table:)
+10. [Tables](markdown-table)
 11. [Emoji](#emoji)
 12. [Commits](#commits)
 
@@ -165,7 +165,7 @@ Here is a task list:
 
 
 
-## Some code examples:
+## Some code examples
 
 Here is a normal paragraph:
 
@@ -274,7 +274,7 @@ Here is an animated gif of the flag for the state of Maryland. It has been linke
 ![maryland](images/marylandFlag.gif)
 
 
-## Markdown table:
+## Markdown table
 
 Here is a basic table:
 
