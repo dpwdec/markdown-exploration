@@ -283,3 +283,5 @@ Here is a table with links and content:
 ## Emoji
 
 Here is a vampire 🧛.
+
+Here is my :thinking face:
