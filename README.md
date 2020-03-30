@@ -284,4 +284,4 @@ Here is a table with links and content:
 
 Here is a vampire 🧛.
 
-Here is my :thinking face:
+Here is my :thinking-face:
