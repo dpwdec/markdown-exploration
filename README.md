@@ -13,7 +13,7 @@ This is a test project to explore the Markdown format and Github flavored Markdo
 7. [Links](#links)
 8. [Emphasis](#emphasis)
 9. [Images](#images)
-10. [Tables](markdown-table)
+10. [Tables](#markdown-table)
 11. [Emoji](#emoji)
 12. [Commits](#commits)
 
