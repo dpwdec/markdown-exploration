@@ -202,6 +202,8 @@ Here is a link to [Google][] that uses text content based ID.
 
 Here is an automatic link: <https://eudoxos.github.io/cfitness/html/cfitness.html>
 
+Here is a link to an [external relative resource](info/information.md)
+
 
 ## Emphasis
 
